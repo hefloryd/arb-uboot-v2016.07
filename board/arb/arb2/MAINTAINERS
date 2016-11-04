@@ -1,0 +1,7 @@
+ARB BOARD
+M:	Hans-Erik Floryd <hans-erik.floryd@rt-labs.com>
+S:	Maintained
+F:	board/arm/arb2/
+F:	include/configs/arb2.h
+F:	configs/arb2_defconfig
+
